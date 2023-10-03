@@ -27,4 +27,7 @@ docker run -d -p 8000:8000 notes-app:latest
 Install Nginx reverse proxy to make this application available
 
 `sudo apt-get update`
-`sudo apt install nginx`
+`sudo apt install nginx
+
+![image](https://github.com/HafizMohsinRaza/Django-note-app/assets/81870281/3348983a-9021-4db3-b036-73602ddc0416)
+
